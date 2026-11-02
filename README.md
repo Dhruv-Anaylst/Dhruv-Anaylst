@@ -20,7 +20,7 @@ I build end-to-end data solutions — from exploratory analysis and statistical 
 - 🔭 **Currently working on:** A real-time stock forecasting pipeline using LSTMs and Streamlit, and scaling a customer churn prediction model to serve 50K+ daily predictions via FastAPI.
 - 🌱 **Currently learning:** MLOps best practices (MLflow, DVC, model monitoring), LLM fine-tuning with LoRA/QLoRA, and causal inference methods for A/B testing.
 - 💬 **Ask me about:** EDA workflows, feature engineering strategies, deploying ML models as APIs, and SQL performance tuning.
-- 📫 **How to reach me:** [dhruv.analyst.ds@gmail.com](mailto:dhruv.analyst.ds@gmail.com)
+- 📫 **How to reach me:** [dhruv.analyst.ds@gmail.com](mailto:dhruvagnihotri21@gmail.com)
 - ⚡ **Fun fact:** I once reduced a 4-hour SQL query to 12 seconds with proper indexing and query rewriting.
 
 ---
